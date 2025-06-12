@@ -5,7 +5,7 @@ A simple command-line tool written in Haskell that converts Zcash (ZEC) amounts 
 ## Features
 
 - Convert ZEC to multiple fiat currencies
-- Supports popular fiat currencies: USD, EUR, RUB
+- Supports popular fiat currencies: USD, EUR, RUB and JPY (More to come) 
 
 ## Run this program
 * Install the latest binary (GNU/Linux only I think)
