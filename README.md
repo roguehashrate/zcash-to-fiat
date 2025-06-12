@@ -1,6 +1,6 @@
 # Zcash to Fiat
 
-A simple command-line tool written in Haskell that converts Zcash (ZEC) amounts to various fiat currencies such as USD, EUR, and RUB.
+A simple command-line tool written in Haskell that converts Zcash (ZEC) amounts to various fiat currencies.
 
 ## Features
 
