@@ -69,7 +69,7 @@ This converts 10 ZEC to USD and prints the result immediately.
 - RUB (Russian Ruble)
 - JPY (Japanese Yen)
 - CAD (Canadian Dollar)
-- GBP (Great Britsh Pound)
+- GBP (Great British Pound)
 
 ---
 
