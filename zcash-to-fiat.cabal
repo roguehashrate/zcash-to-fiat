@@ -73,7 +73,8 @@ executable zcash-to-fiat
                  text,
                  bytestring,
                  aeson,
-                 req
+                 req,
+                 optparse-applicative >= 0.16
 
     -- Directories containing source files.
  hs-source-dirs:   app

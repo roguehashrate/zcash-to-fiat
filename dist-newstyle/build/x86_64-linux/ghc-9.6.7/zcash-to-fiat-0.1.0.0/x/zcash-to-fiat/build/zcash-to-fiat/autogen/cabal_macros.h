@@ -40,6 +40,16 @@
   (major1) == 0 && (major2) <  11 || \
   (major1) == 0 && (major2) == 11 && (minor) <= 5)
 #endif /* MIN_VERSION_bytestring */
+/* package optparse-applicative-0.19.0.0 */
+#ifndef VERSION_optparse_applicative
+#define VERSION_optparse_applicative "0.19.0.0"
+#endif /* VERSION_optparse_applicative */
+#ifndef MIN_VERSION_optparse_applicative
+#define MIN_VERSION_optparse_applicative(major1,major2,minor) (\
+  (major1) <  0 || \
+  (major1) == 0 && (major2) <  19 || \
+  (major1) == 0 && (major2) == 19 && (minor) <= 0)
+#endif /* MIN_VERSION_optparse_applicative */
 /* package req-3.13.4 */
 #ifndef VERSION_req
 #define VERSION_req "3.13.4"
