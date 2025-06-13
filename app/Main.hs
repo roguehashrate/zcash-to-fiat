@@ -23,7 +23,6 @@ data CliOptions = CliOptions
 instance Aeson.FromJSON PriceResponse
 instance Aeson.FromJSON ZcashPrice
 
--- Updated data type to include CAD and GBP
 data PriceResponse = PriceResponse
   { zcash :: ZcashPrice
   } deriving (Show, Generic)
